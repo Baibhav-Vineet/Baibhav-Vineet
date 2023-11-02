@@ -1,5 +1,8 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>👋 Hi, I'm BAIBHAV VINEET. A relentless problem solver with a passion for clean code.<br>   My journey in code is about crafting elegant solutions and embracing the beauty of simplicity.<br>Let's create something remarkable together.
+## 🚀 About Me<br><br>👋 Hi, I'm BAIBHAV VINEET.
+A relentless problem solver with a passion for clean code.<br>  
+My journey in code is about crafting elegant solutions and embracing the beauty of simplicity.
+<br>Let's create something remarkable together.
 
 
 ## 🌐 Socials:
